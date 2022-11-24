@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dynamic_greeting/static/css/main.51e31fad.css",
+    "main.js": "/dynamic_greeting/static/js/main.0cdddf23.js",
+    "index.html": "/dynamic_greeting/index.html",
+    "main.51e31fad.css.map": "/dynamic_greeting/static/css/main.51e31fad.css.map",
+    "main.0cdddf23.js.map": "/dynamic_greeting/static/js/main.0cdddf23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51e31fad.css",
+    "static/js/main.0cdddf23.js"
+  ]
+}
